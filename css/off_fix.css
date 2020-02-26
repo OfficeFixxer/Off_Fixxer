@@ -1,0 +1,26 @@
+body {
+  animation: mymove 5s infinite;
+  background-position: center;
+  position: relative;
+}
+
+@keyframes mymove {
+  from {background-color: #F1EDBF;}
+  to {background-color: #82C9c1;}
+}
+
+.font-color {
+  font-size: 45px;
+  font-family: 'Bad Script';
+}
+
+.logo {
+  animation: mymove2 5s infinite;
+  background-position: center;
+  position: relative;
+}
+
+@keyframes mymove2 {
+  from {left: 0px;}
+  to {left: 450px;}
+}
