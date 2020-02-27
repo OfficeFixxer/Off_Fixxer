@@ -1,12 +1,7 @@
 body {
   margin: 0;
-  animation: mymove 5s infinite;
+  background-color: #82C9c1
   background-position: center;
-}
-
-@keyframes mymove {
-  from {background-color: #F1EDBF;}
-  to {background-color: #82C9c1;}
 }
 
 .font-color {
