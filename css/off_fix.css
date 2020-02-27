@@ -9,13 +9,3 @@ body {
   font-family: 'Bad Script';
 }
 
-.logo {
-  animation: mymove2 5s infinite;
-  background-position: center;
-  position: relative;
-}
-
-@keyframes mymove2 {
-  from {left: 0px;}
-  to {left: 450px;}
-}
