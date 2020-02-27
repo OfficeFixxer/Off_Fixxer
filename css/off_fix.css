@@ -1,7 +1,7 @@
 body {
+  margin: 0;
   animation: mymove 5s infinite;
   background-position: center;
-  position: relative;
 }
 
 @keyframes mymove {
